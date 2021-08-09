@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm AJIBADE Olufemi
 
 Here are some ideas to get you started:
 
@@ -9,14 +9,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... [Justfemi](https://twitter.com/justfemi10)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... 
---
 
 
 ## &#x1f4c8; GitHub Stats
-![Justfemi's github stats](https://github-readme-stats.vercel.app/api?username=Justfemi&theme=tokyonight&show_icons=true) </p>
+![Justfemi's github stats](https://github-readme-stats.vercel.app/api?username=Justfemi&theme=cobalt&show_icons=true)</p>
 
 
 ### Language iCode in
-[![August's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Justfemi&show_icons=true&theme=tokyonight)](https://github.com/Justfemi)
+[![August's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Justfemi&show_icons=true&theme=gruvbox)](https://github.com/Justfemi)
 
