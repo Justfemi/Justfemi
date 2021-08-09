@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Justfemi/Justfemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... React
+- 🌱 I’m currently learning ... AWS/Cloud computing
+- 👯 I’m looking to collaborate on ... React
+- 🤔 I’m looking for help with ... cloud computing
+- 💬 Ask me about ... anything
+- 📫 How to reach me: ... [Justfemi](https://twitter.com/justfemi10)
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... 
+--
+
+
+## &#x1f4c8; GitHub Stats
+![Justfemi's github stats](https://github-readme-stats.vercel.app/api?username=Justfemi&theme=tokyonight&show_icons=true) </p>
+
+
+### Language iCode in
+[![August's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Justfemi&show_icons=true&theme=tokyonight)](https://github.com/Justfemi)
+
