@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... React
-- 🌱 I’m currently learning ... AWS/Cloud computing
+- 🌱 I’m currently learning ... Cloud computing and Game development with C# and unity
 - 👯 I’m looking to collaborate on ... React
 - 🤔 I’m looking for help with ... cloud computing
 - 💬 Ask me about ... anything
