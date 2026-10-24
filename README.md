@@ -4,8 +4,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... React
-- 🌱 I’m currently learning ... Cloud computing and Game development with C# and unity
-- 👯 I’m looking to collaborate on ... React
+- 🌱 I’m currently learning ... Cloud computing
+- 👯 I’m looking to collaborate on ... React, Next & Typescript
 - 🤔 I’m looking for help with ... cloud computing
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... [Justfemi](https://twitter.com/justfemi10)
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 
 ### Language iCode in
 [![August's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Justfemi&show_icons=true&theme=gruvbox)](https://github.com/Justfemi)
-
